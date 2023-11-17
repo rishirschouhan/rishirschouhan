@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rishi
 - 👀 I’m interested in not coding
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on my onwn stuffs
+- 💞️ I’m looking to collaborate on my own stuffs
 - 📫 How to reach me rishirschouhan@gmail.com
 
 <!---
